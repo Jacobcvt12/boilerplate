@@ -1,0 +1,17 @@
+Package: boilerplate
+Title: R package
+Version: 0.0.1
+Maintainer: Jacob Carey <jacobcvt12@gmail.com>
+Description: R package contains all the boilerplate you need to create an R package.
+Author: Jacob Carey
+Depends:
+Imports:
+Suggests:
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+License: Artistic-2.0
+LazyData: true
+URL: https://github.com/jacobcvt12/
+BugRepots: https://github.com/jacobcvt12//issues
